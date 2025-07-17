@@ -151,3 +151,9 @@ footer {
 
 }
 
+footer a {
+    color: #33A8DB;
+    font-weight: bold;
+    text-decoration: none;
+}
+
